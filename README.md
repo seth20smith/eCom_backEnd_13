@@ -1,4 +1,4 @@
-# eCom_backEnd_13
+
 ORM back end Ecommerce
 
 GIVEN a functional Express.js API
@@ -23,6 +23,9 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 
+![ExpressPic](https://github.com/seth20smith/eCom_backEnd_13/assets/91171134/17c46b7a-9aba-40a2-8482-6da710b6beff)
+
+
 +--------------------+
 | Database           |
 +--------------------+
@@ -33,3 +36,5 @@ THEN I am able to successfully create, update, and delete data in my database
 | performance_schema |
 | sys                |
 +--------------------+
+
+I used: MySQL, Express.js (Api), Insomnia, JSON.
